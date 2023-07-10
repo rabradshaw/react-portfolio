@@ -1,0 +1,21 @@
+.header {
+    
+    width: 100%;
+    text-align: center;
+    background-color: #FFDE5Bff;
+    color: #050318;
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+  ul{
+    list-style: none
+  }
+  #mainNav {
+    background-color: #FFDE5Bff;
+    margin-bottom: 10px;
+  }
+h1{
+  font-family: 'Montserrat', sans-serif;
+}
+.images_header{
+  padding: 5px;
+}

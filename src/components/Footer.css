@@ -1,0 +1,17 @@
+.foot {
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: #050318;;
+    color: #ffffff;
+  
+  }
+  h1{
+    font-size: .85rem;
+    padding: 5px; 
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
